@@ -1,5 +1,0 @@
-2020-01-02 14:20:43.102 | INFO     | public.common.mytest:setUp:16 - ############################### START ###############################
-2020-01-02 14:20:46.329 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 3.227184534072876 seconds
-2020-01-02 14:20:47.606 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.2770731449127197 seconds
-2020-01-02 14:20:47.612 | INFO     | public.common.pyselenium:my_print:76 - FAIL    Unable to load xxxxxx, Spend 0.00500035285949707 seconds
-2020-01-02 14:21:07.675 | ERROR    | public.common.sendmail:send:91 - ∑¢ÀÕ” º˛ ß∞‹

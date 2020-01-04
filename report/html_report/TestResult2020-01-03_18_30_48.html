@@ -117,8 +117,8 @@ function html_escape(s) {
 <div class='heading'>
 <h4 style="font-family: Microsoft YaHei">测试报告</h4>
 <p class='attribute'><strong>测试人员 : </strong> 谷哥</p>
-<p class='attribute'><strong>开始时间 : </strong> 2020-01-02 14:20:43</p>
-<p class='attribute'><strong>合计耗时 : </strong> 0:00:05.455312</p>
+<p class='attribute'><strong>开始时间 : </strong> 2020-01-03 18:30:48</p>
+<p class='attribute'><strong>合计耗时 : </strong> 0:00:50.250875</p>
 <p class='attribute'><strong>测试结果 : </strong> 共 1，错误 1，通过率= 0.00%</p>
 
 <p class='description'></p>
@@ -153,7 +153,7 @@ function html_escape(s) {
 </tr>
 
 <tr class='errorClass warning'>
-    <td>test_4_tasklog.TestTask: 任务日志模块</td>
+    <td>test_1_login.TestLogin: 登录模块</td>
     <td class="text-center">1</td>
     <td class="text-center">0</td>
     <td class="text-center">0</td>
@@ -163,7 +163,7 @@ function html_escape(s) {
 </tr>
 
 <tr id='ft1_1' class='none'>
-    <td class='errorCase' width='300px'><div class='testcase'>test_select_date</div></td>
+    <td class='errorCase' width='300px'><div class='testcase'>test_01_login_1: 正常登录</div></td>
     <td colspan='5' align='left' width='600px'> <!--print 输出框位置-->
     <!--默认收起错误信息 -Findyou
     <button id='btn_ft1_1' type="button"  class="btn btn-danger btn-xs collapsed" data-toggle="collapse" data-target='#div_ft1_1'>错误</button>
@@ -173,19 +173,25 @@ function html_escape(s) {
     <div id='div_ft1_1' class="collapse in">
     <pre style="overflow-y:scroll; overflow-x:hidden;height:200px; width:600px; margin:auto; border:1px solid #e1e1e1;">
     
-ft1_1: Traceback (most recent call last):
-  File "E:\project\UI923\public\common\mytest.py", line 19, in setUp
-    self.dr.open(ConfigInit.url)
-  File "E:\project\UI923\public\common\pyselenium.py", line 177, in open
-    self.driver.get(url)
-  File "E:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 333, in get
-    self.execute(Command.GET, {'url': url})
-  File "E:\python\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
-    self.error_handler.check_response(response)
-  File "E:\python\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
-    raise exception_class(message, screen, stacktrace)
-selenium.common.exceptions.InvalidArgumentException: Message: invalid argument
-  (Session info: chrome=79.0.3945.88)
+ft1_1: screenshot: None
+Traceback (most recent call last):
+  File "C:\Users\Administrator\AppData\Roaming\Python\Python36\site-packages\ddt.py", line 145, in wrapper
+    return func(self, *args, **kwargs)
+  File "E:\project\UI923\public\common\get_img.py", line 47, in get_screenshot_about_case
+    raise e
+  File "E:\project\UI923\public\common\get_img.py", line 29, in get_screenshot_about_case
+    func(self, *args, **kwargs)
+  File "E:\project\UI923\testcase\test_1_login.py", line 29, in test_01_login
+    username = ele.get_name()
+  File "E:\project\UI923\public\pages\LoginoutPage.py", line 12, in get_name
+    name = self.dr.get_text("class-&gt;user-name")
+  File "E:\project\UI923\public\common\pyselenium.py", line 502, in get_text
+    self.element_wait(css)
+  File "E:\project\UI923\public\common\pyselenium.py", line 97, in element_wait
+    WebDriverWait(self.driver, secs, 1).until(EC.presence_of_element_located((By.CLASS_NAME, value)), messages)
+  File "E:\python\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: Element: class-&gt;user-name not found in 30 seconds.
 
 
 
@@ -193,8 +199,10 @@ selenium.common.exceptions.InvalidArgumentException: Message: invalid argument
     </div>
     </td>
     <td align="right">
-        <a hidden="hidden" href="">
-            <img   src="" height="200px" width="400px"/>
+        <a  href="None
+">
+            <img   src="None
+" height="200px" width="400px"/>
         </a>
     </td>
 </tr>

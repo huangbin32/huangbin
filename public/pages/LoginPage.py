@@ -1,6 +1,6 @@
 #coding=utf-8
 from public.common import basepage
-from public.pages.WorkBenchPage import WorkBench
+from public.pages.LoginoutPage import WorkBench
 
 
 class Login(basepage.Page):
@@ -8,11 +8,11 @@ class Login(basepage.Page):
 
     def input_account(self, account):
         """输入账号"""
-        self.dr.clear_type("css->[placeholder='请输入登录账号/邮箱/手机号码']", account)
+        self.dr.clear_type("css->[placeholder='手机号']", account)
 
     def input_pw(self, pw):
         """输入密码"""
-        self.dr.clear_type("css->[placeholder='请输入密码']", pw)
+        self.dr.clear_type("css->[placeholder='密码']", pw)
 
     def click_login_btn(self):
         """点击登录按钮"""
@@ -33,6 +33,5 @@ class Login(basepage.Page):
         self.input_account(account)
         self.input_pw(pw)
         self.click_login_btn()
-
         return WorkBench(self.dr)
 

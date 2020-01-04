@@ -16,7 +16,7 @@ reportPath = globalparam.report_path
 sendaddr_name = ConfigInit.sendaddr_name
 sendaddr_pswd = ConfigInit.sendaddr_pswd
 # 配置收发件人
-recvaddress = ['281878321@qq.com']
+recvaddress = ['1171499448@qq.com']
 
 
 class SendMail:
@@ -82,8 +82,8 @@ class SendMail:
         self.__take_messages()
         self.msg['from'] = 'postmaster@{}'.format(sendaddr_name)
         try:
-            smtp = smtplib.SMTP('smtp.mailgun.org', 587)
-            smtp.login('postmaster@{}'.format(sendaddr_name), sendaddr_pswd)
+            smtp = smtplib.SMTP('smtp.163.com', 587)
+            smtp.login(sendaddr_name, sendaddr_pswd)
             smtp.sendmail(self.msg['from'], self.sendTo, self.msg.as_string())
             smtp.close()
             logger.info("发送邮件成功")
