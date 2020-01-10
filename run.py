@@ -5,12 +5,7 @@ import os
 from loguru import logger
 from config import globalparam
 from public.common import sendmail
-from testcase import test_1_login, test_2_loginout
-from public.common.mongo_utils import MongoModel
-# from BeautifulReport import BeautifulReport
-# from HTMLTestRunner_cn import HTMLTestRunner_cn
-# from tomorrow import threads
-import HTMLTestRunner_gu
+import HTMLTestRunner_bin
 
 path = os.path.join(os.path.abspath('.'), 'report', 'logs', 'test_{}.log'.format(time.strftime('%Y-%m-%d')))
 logger.add(path)  # 日志初始化
@@ -19,15 +14,14 @@ logger.add(path)  # 日志初始化
 def run(method, test=None):
     if method == 'all':
         test_dir = './testcase'
-        suite = unittest.defaultTestLoader.discover(start_dir=test_dir, pattern='test_1*.py')
+        suite = unittest.defaultTestLoader.discover(start_dir=test_dir, pattern='test_3*.py')
 
         now = time.strftime('%Y-%m-%d_%H_%M_%S')
         reportname = os.path.join(globalparam.report_path, 'TestResult' + now + '.html')
         with open(reportname, 'wb') as f:
-            runner = HTMLTestRunner_gu.HTMLTestRunner(
+            runner = HTMLTestRunner_bin.HTMLTestRunner(
                 stream=f,
                 title='测试报告',
-                description=''
             )
             runner.run(suite)
         time.sleep(3)

@@ -1,4 +1,4 @@
-这是一个UI自动化框架，内容构成：python+unittest+selenium+ddt，编写人：古城
+这是一个UI自动化框架，内容构成：python+unittest+selenium+ddt，编写人：黄彬
 
 目录结构说明：
 

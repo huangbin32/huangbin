@@ -1,0 +1,512 @@
+2020-01-09 11:58:09.053 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 12:01:25.994 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 12:05:36.175 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 12:06:34.200 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 12:06:36.868 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.6681525707244873 seconds
+2020-01-09 12:06:38.020 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1520657539367676 seconds
+2020-01-09 12:06:42.855 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 4.8342766761779785 seconds
+2020-01-09 12:06:42.855 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 12:06:43.362 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.5060288906097412 seconds
+2020-01-09 12:06:43.506 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.14400815963745117 seconds
+2020-01-09 12:06:43.605 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.09800553321838379 seconds
+2020-01-09 12:06:43.685 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.08000469207763672 seconds
+2020-01-09 12:06:44.726 | INFO     | public.common.pyselenium:my_print:76 - FAIL    Unable to click element: <xpath->//li[contains(text(),'退出')]/../li[1]>, Spend 1.0400593280792236 seconds
+2020-01-09 12:06:44.726 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_3_personalinfo.Personalinfo.test_1_info_1_20200109120644.png
+2020-01-09 12:06:45.163 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_3_personalinfo.Personalinfo.test_1_info_1_20200109120644_.png, Spend 0.4370250701904297 seconds
+2020-01-09 12:06:45.618 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 12:06:47.743 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.125121593475342 seconds
+2020-01-09 12:06:47.743 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 12:06:52.240 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 12:16:51.881 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 12:16:54.486 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.6041488647460938 seconds
+2020-01-09 12:16:55.641 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1550662517547607 seconds
+2020-01-09 12:17:00.634 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 4.992285490036011 seconds
+2020-01-09 12:17:00.634 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 12:17:00.844 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.20901179313659668 seconds
+2020-01-09 12:17:01.003 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.15800905227661133 seconds
+2020-01-09 12:17:01.105 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.1020059585571289 seconds
+2020-01-09 12:17:01.181 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.07500410079956055 seconds
+2020-01-09 12:17:02.245 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//button[@class='el-button el-button--primary el-dropdown-selfdefine']/..>, Spend 1.063060998916626 seconds
+2020-01-09 12:17:03.335 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.creates>li:nth-child(1)>, Spend 0.0890047550201416 seconds
+2020-01-09 12:17:04.467 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.input-tags>button>, Spend 0.13100743293762207 seconds
+2020-01-09 12:17:04.534 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->div.input-tags>div>input> content: 课程, Spend 0.06600356101989746 seconds
+2020-01-09 12:17:04.660 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->input[placeholder='请输入课程名称']> content: 自动化培训, Spend 0.12500691413879395 seconds
+2020-01-09 12:17:04.762 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入课程名称']> content: 大学生, Spend 0.08800530433654785 seconds
+2020-01-09 12:17:04.852 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入学习目标']> content: 完美, Spend 0.0890049934387207 seconds
+2020-01-09 12:17:04.938 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入课程综述']> content: 优秀, Spend 0.08600473403930664 seconds
+2020-01-09 12:17:05.008 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//span[contains(text(),'确定')]/..>, Spend 0.07000422477722168 seconds
+2020-01-09 12:17:06.110 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get element text element: <css->.course-item__title>, Spend 1.102062702178955 seconds
+2020-01-09 12:17:06.119 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get current window url, Spend 0.008000373840332031 seconds
+2020-01-09 12:17:06.120 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_2_workbench.TestWorkbench.test_2_1_20200109121706.png
+2020-01-09 12:17:06.620 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_2_workbench.TestWorkbench.test_2_1_20200109121706_.png, Spend 0.5000286102294922 seconds
+2020-01-09 12:17:07.064 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 12:17:09.213 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.148122787475586 seconds
+2020-01-09 12:17:09.214 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 12:17:13.786 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 12:23:52.365 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 12:23:54.983 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.618149757385254 seconds
+2020-01-09 12:23:56.139 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1560661792755127 seconds
+2020-01-09 12:24:01.660 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 5.519315719604492 seconds
+2020-01-09 12:24:01.662 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 12:24:02.192 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.5300302505493164 seconds
+2020-01-09 12:24:02.344 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.15100860595703125 seconds
+2020-01-09 12:24:02.407 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.0630035400390625 seconds
+2020-01-09 12:24:02.577 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.17000961303710938 seconds
+2020-01-09 12:24:03.736 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//button[@class='el-button el-button--primary el-dropdown-selfdefine']/..>, Spend 1.1590664386749268 seconds
+2020-01-09 12:24:04.940 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.creates>li:nth-child(1)>, Spend 0.20301175117492676 seconds
+2020-01-09 12:24:06.112 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.input-tags>button>, Spend 0.17100977897644043 seconds
+2020-01-09 12:24:06.177 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->div.input-tags>div>input> content: 课程, Spend 0.06400370597839355 seconds
+2020-01-09 12:24:06.303 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入课程名称']> content: 自动化培训, Spend 0.1260073184967041 seconds
+2020-01-09 12:24:06.405 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入目标学员']> content: 大学生, Spend 0.1020059585571289 seconds
+2020-01-09 12:24:06.496 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入学习目标']> content: 完美, Spend 0.09100508689880371 seconds
+2020-01-09 12:24:06.591 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入课程综述']> content: 优秀, Spend 0.09400534629821777 seconds
+2020-01-09 12:24:06.656 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//span[contains(text(),'确定')]/..>, Spend 0.06500363349914551 seconds
+2020-01-09 12:24:07.769 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get element text element: <css->.course-item__title>, Spend 1.1130638122558594 seconds
+2020-01-09 12:24:07.777 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get current window url, Spend 0.007000446319580078 seconds
+2020-01-09 12:24:07.777 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_2_workbench.TestWorkbench.test_2_1_20200109122407.png
+2020-01-09 12:24:08.244 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_2_workbench.TestWorkbench.test_2_1_20200109122407_.png, Spend 0.4670264720916748 seconds
+2020-01-09 12:24:08.614 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 12:24:10.759 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.14412260055542 seconds
+2020-01-09 12:24:10.760 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 12:24:15.660 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 14:54:55.453 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 14:54:58.044 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.5901482105255127 seconds
+2020-01-09 14:54:59.182 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1380648612976074 seconds
+2020-01-09 14:55:04.110 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 4.928282022476196 seconds
+2020-01-09 14:55:04.110 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 14:55:04.674 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.5640320777893066 seconds
+2020-01-09 14:55:04.833 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.15900921821594238 seconds
+2020-01-09 14:55:04.960 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.12700724601745605 seconds
+2020-01-09 14:55:05.040 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.08000469207763672 seconds
+2020-01-09 14:55:06.108 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//button[@class='el-button el-button--primary el-dropdown-selfdefine']/..>, Spend 1.068061113357544 seconds
+2020-01-09 14:55:07.196 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.creates>li:nth-child(1)>, Spend 0.08800482749938965 seconds
+2020-01-09 14:55:08.253 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.input-tags>button>, Spend 0.05600309371948242 seconds
+2020-01-09 14:55:08.314 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->div.input-tags>div>input> content: 课程, Spend 0.061003684997558594 seconds
+2020-01-09 14:55:08.440 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入课程名称']> content: 自动化培训, Spend 0.12500739097595215 seconds
+2020-01-09 14:55:08.543 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入目标学员']> content: 大学生, Spend 0.10300564765930176 seconds
+2020-01-09 14:55:08.644 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入学习目标']> content: 完美, Spend 0.10100579261779785 seconds
+2020-01-09 14:55:08.733 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入课程综述']> content: 优秀, Spend 0.0890049934387207 seconds
+2020-01-09 14:55:08.810 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//span[contains(text(),'确定')]/..>, Spend 0.0760045051574707 seconds
+2020-01-09 14:55:09.862 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get element text element: <css->.course-item__title>, Spend 1.0520601272583008 seconds
+2020-01-09 14:55:09.866 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get current window url, Spend 0.003999948501586914 seconds
+2020-01-09 14:55:09.867 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_2_workbench.TestWorkbench.test_2_1_20200109145509.png
+2020-01-09 14:55:10.323 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_2_workbench.TestWorkbench.test_2_1_20200109145509_.png, Spend 0.4560260772705078 seconds
+2020-01-09 14:55:10.729 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 14:55:12.837 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.1081204414367676 seconds
+2020-01-09 14:55:12.838 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 14:55:17.045 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 14:59:44.123 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 14:59:46.785 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.6611521244049072 seconds
+2020-01-09 14:59:47.955 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.169067144393921 seconds
+2020-01-09 14:59:51.704 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 3.7482142448425293 seconds
+2020-01-09 14:59:51.705 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 14:59:52.206 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.5010285377502441 seconds
+2020-01-09 14:59:52.349 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.14300823211669922 seconds
+2020-01-09 14:59:52.438 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.0890052318572998 seconds
+2020-01-09 14:59:52.598 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.16000914573669434 seconds
+2020-01-09 15:00:13.226 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//button[@class='el-button el-button--primary el-dropdown-selfdefine']/..>, Spend 20.627179861068726 seconds
+2020-01-09 15:00:14.448 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.creates>li:nth-child(1)>, Spend 0.22201275825500488 seconds
+2020-01-09 15:00:15.578 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.input-tags>button>, Spend 0.12900733947753906 seconds
+2020-01-09 15:00:15.674 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->div.input-tags>div>input> content: 课程, Spend 0.09600567817687988 seconds
+2020-01-09 15:00:15.817 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入课程名称']> content: 自动化培训, Spend 0.14300823211669922 seconds
+2020-01-09 15:00:15.927 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入目标学员']> content: 大学生, Spend 0.11000633239746094 seconds
+2020-01-09 15:00:16.015 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入学习目标']> content: 完美, Spend 0.08800482749938965 seconds
+2020-01-09 15:00:16.107 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入课程综述']> content: 优秀, Spend 0.09200549125671387 seconds
+2020-01-09 15:00:16.180 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//span[contains(text(),'确定')]/..>, Spend 0.07200431823730469 seconds
+2020-01-09 15:00:17.283 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get element text element: <css->.course-item__title>, Spend 1.1030631065368652 seconds
+2020-01-09 15:00:17.292 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get current window url, Spend 0.009000301361083984 seconds
+2020-01-09 15:00:19.416 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.123121738433838 seconds
+2020-01-09 15:00:19.417 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 15:00:25.009 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 15:13:27.423 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 15:13:30.116 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.6921539306640625 seconds
+2020-01-09 15:13:31.257 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1410653591156006 seconds
+2020-01-09 15:13:36.430 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 5.173295974731445 seconds
+2020-01-09 15:13:36.431 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 15:13:36.924 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.49202799797058105 seconds
+2020-01-09 15:13:37.071 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.14700865745544434 seconds
+2020-01-09 15:13:37.149 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.07800412178039551 seconds
+2020-01-09 15:13:37.233 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.08400487899780273 seconds
+2020-01-09 15:13:38.326 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->span.el-dropdown-link>i>, Spend 1.0920624732971191 seconds
+2020-01-09 15:13:39.420 | INFO     | public.common.pyselenium:my_print:76 - FAIL    Unable to click element: <css->ul.el-dropdown-menu>li:nth-child(6)>, Spend 0.09300518035888672 seconds
+2020-01-09 15:13:39.421 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_2_workbench.TestWorkbench.test_3_1_20200109151339.png
+2020-01-09 15:13:39.973 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_2_workbench.TestWorkbench.test_3_1_20200109151339_.png, Spend 0.5520317554473877 seconds
+2020-01-09 15:13:40.496 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 15:13:42.631 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.134122133255005 seconds
+2020-01-09 15:13:42.632 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 15:13:47.306 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 15:15:58.465 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 15:16:01.106 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.641150951385498 seconds
+2020-01-09 15:16:02.259 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1530659198760986 seconds
+2020-01-09 15:16:05.851 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 3.591205358505249 seconds
+2020-01-09 15:16:05.852 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 15:16:06.344 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.49102783203125 seconds
+2020-01-09 15:16:06.493 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.1480085849761963 seconds
+2020-01-09 15:16:06.577 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.08400487899780273 seconds
+2020-01-09 15:16:06.735 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.15800881385803223 seconds
+2020-01-09 15:16:07.906 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->span.el-dropdown-link>i>, Spend 1.1710669994354248 seconds
+2020-01-09 15:16:09.027 | INFO     | public.common.pyselenium:my_print:76 - FAIL    Unable to click element: <css->ul.el-dropdown-menu>li:nth-child(6)>, Spend 0.12100672721862793 seconds
+2020-01-09 15:16:09.028 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_2_workbench.TestWorkbench.test_3_1_20200109151609.png
+2020-01-09 15:16:09.486 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_2_workbench.TestWorkbench.test_3_1_20200109151609_.png, Spend 0.4580261707305908 seconds
+2020-01-09 15:16:09.908 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 15:16:12.046 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.13712215423584 seconds
+2020-01-09 15:16:12.047 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 15:16:18.733 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 15:16:51.106 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 15:16:53.734 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.628150224685669 seconds
+2020-01-09 15:16:54.888 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1530659198760986 seconds
+2020-01-09 15:17:00.371 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 5.483313798904419 seconds
+2020-01-09 15:17:00.371 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 15:17:00.888 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.5170295238494873 seconds
+2020-01-09 15:17:01.019 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.13000750541687012 seconds
+2020-01-09 15:17:01.110 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.09000515937805176 seconds
+2020-01-09 15:17:01.196 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.08600497245788574 seconds
+2020-01-09 15:17:13.539 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->span.el-dropdown-link>i>, Spend 12.342705965042114 seconds
+2020-01-09 15:17:23.693 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.el-dropdown-menu>li:nth-child(6)>, Spend 0.1540086269378662 seconds
+2020-01-09 15:17:24.047 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get element text element: <css->div.el-message-box__message>p>, Spend 0.05300307273864746 seconds
+2020-01-09 15:17:24.052 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get current window url, Spend 0.00500035285949707 seconds
+2020-01-09 15:17:24.110 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.el-message-box__btns>button:nth-child(2)>, Spend 0.05800318717956543 seconds
+2020-01-09 15:17:26.232 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->.icon.mdi.mdi-trash-can-outline>, Spend 0.12200689315795898 seconds
+2020-01-09 15:17:27.327 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->span.el-dropdown-link>i>, Spend 0.09500527381896973 seconds
+2020-01-09 15:17:51.740 | INFO     | public.common.pyselenium:my_print:76 - FAIL    Unable to click element: <css->ul.el-dropdown-menu>li:nth-child(3)>, Spend 14.412824392318726 seconds
+2020-01-09 15:17:51.740 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_2_workbench.TestWorkbench.test_3_1_20200109151751.png
+2020-01-09 15:17:52.262 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_2_workbench.TestWorkbench.test_3_1_20200109151751_.png, Spend 0.5200300216674805 seconds
+2020-01-09 15:17:52.694 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 15:17:54.838 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.143122673034668 seconds
+2020-01-09 15:17:54.839 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 15:18:01.859 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 15:20:18.466 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 15:20:21.071 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.604149103164673 seconds
+2020-01-09 15:20:22.216 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1440653800964355 seconds
+2020-01-09 15:20:26.403 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 4.187239408493042 seconds
+2020-01-09 15:20:26.404 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 15:20:26.932 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.5280303955078125 seconds
+2020-01-09 15:20:27.071 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.13800764083862305 seconds
+2020-01-09 15:20:27.143 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.07200431823730469 seconds
+2020-01-09 15:20:27.213 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.06900382041931152 seconds
+2020-01-09 15:20:29.292 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->span.el-dropdown-link>i>, Spend 2.0791192054748535 seconds
+2020-01-09 15:20:32.420 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.el-dropdown-menu>li:nth-child(6)>, Spend 0.128007173538208 seconds
+2020-01-09 15:20:32.781 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get element text element: <css->div.el-message-box__message>p>, Spend 0.06000328063964844 seconds
+2020-01-09 15:20:32.789 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get current window url, Spend 0.0070002079010009766 seconds
+2020-01-09 15:20:32.852 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.el-message-box__btns>button:nth-child(2)>, Spend 0.0630037784576416 seconds
+2020-01-09 15:20:34.994 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->.icon.mdi.mdi-trash-can-outline>, Spend 0.14200806617736816 seconds
+2020-01-09 15:20:36.106 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->span.el-dropdown-link>i>, Spend 0.11200642585754395 seconds
+2020-01-09 15:20:39.174 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.el-dropdown-menu>li:nth-child(3)>, Spend 0.06600379943847656 seconds
+2020-01-09 15:20:41.244 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.el-message-box__btns>button:nth-child(2)>, Spend 0.07000422477722168 seconds
+2020-01-09 15:20:45.407 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.162123680114746 seconds
+2020-01-09 15:20:45.408 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 15:20:52.580 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 16:30:25.792 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 16:30:28.396 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.6041486263275146 seconds
+2020-01-09 16:30:29.591 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.195068359375 seconds
+2020-01-09 16:30:34.455 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 4.86227822303772 seconds
+2020-01-09 16:30:34.455 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 16:30:34.668 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.2130122184753418 seconds
+2020-01-09 16:30:35.156 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.487027645111084 seconds
+2020-01-09 16:30:35.261 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.10400605201721191 seconds
+2020-01-09 16:30:35.352 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.09100508689880371 seconds
+2020-01-09 16:30:36.416 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.flex.flex--align-center.el-dropdown-selfdefine>, Spend 1.063060998916626 seconds
+2020-01-09 16:30:37.463 | INFO     | public.common.pyselenium:my_print:76 - FAIL    Unable to click element: <xpath->//li[contains(text(),'退出')]/../li[1]>, Spend 0.047002553939819336 seconds
+2020-01-09 16:30:37.463 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_3_personalinfo.Personalinfo.test_1_info_1_20200109163037.png
+2020-01-09 16:30:37.891 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_3_personalinfo.Personalinfo.test_1_info_1_20200109163037_.png, Spend 0.4280245304107666 seconds
+2020-01-09 16:30:38.252 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 16:30:40.366 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.1141209602355957 seconds
+2020-01-09 16:30:40.366 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 16:30:44.793 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 16:48:54.423 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 16:48:57.126 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.7031543254852295 seconds
+2020-01-09 16:48:58.274 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1470656394958496 seconds
+2020-01-09 16:49:02.106 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 3.832219123840332 seconds
+2020-01-09 16:49:02.106 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 16:49:02.594 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.48802804946899414 seconds
+2020-01-09 16:49:02.755 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.1610090732574463 seconds
+2020-01-09 16:49:02.838 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.08200478553771973 seconds
+2020-01-09 16:49:02.909 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.07100391387939453 seconds
+2020-01-09 16:49:03.970 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.flex.flex--align-center.el-dropdown-selfdefine>, Spend 1.060060739517212 seconds
+2020-01-09 16:49:05.026 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//li[contains(text(),'退出')]/../li[1]>, Spend 0.05500292778015137 seconds
+2020-01-09 16:49:06.027 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_3_personalinfo.Personalinfo.test_1_info_1_20200109164906.png
+2020-01-09 16:49:06.465 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_3_personalinfo.Personalinfo.test_1_info_1_20200109164906_.png, Spend 0.43802475929260254 seconds
+2020-01-09 16:49:06.857 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 16:49:08.953 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.0961201190948486 seconds
+2020-01-09 16:49:08.953 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 16:49:13.100 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 16:50:48.273 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 16:50:50.880 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.607149124145508 seconds
+2020-01-09 16:50:52.036 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1550660133361816 seconds
+2020-01-09 16:50:55.432 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 3.3961944580078125 seconds
+2020-01-09 16:50:55.432 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 16:50:55.623 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.1910107135772705 seconds
+2020-01-09 16:50:55.767 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.14400815963745117 seconds
+2020-01-09 16:50:55.860 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.09200549125671387 seconds
+2020-01-09 16:50:55.965 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.10500574111938477 seconds
+2020-01-09 16:50:57.119 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.flex.flex--align-center.el-dropdown-selfdefine>, Spend 1.1530659198760986 seconds
+2020-01-09 16:50:58.217 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//li[contains(text(),'退出')]/../li[1]>, Spend 0.09700560569763184 seconds
+2020-01-09 16:50:59.217 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_3_personalinfo.Personalinfo.test_1_info_1_20200109165059.png
+2020-01-09 16:50:59.717 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_3_personalinfo.Personalinfo.test_1_info_1_20200109165059_.png, Spend 0.49902844429016113 seconds
+2020-01-09 16:51:00.214 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 16:51:02.321 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.1071202754974365 seconds
+2020-01-09 16:51:02.322 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 16:51:07.495 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 17:19:39.324 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 17:19:41.938 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.614149570465088 seconds
+2020-01-09 17:19:43.084 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1460654735565186 seconds
+2020-01-09 17:19:47.028 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 3.943225622177124 seconds
+2020-01-09 17:19:47.029 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 17:19:47.530 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.5010285377502441 seconds
+2020-01-09 17:19:47.661 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.13100743293762207 seconds
+2020-01-09 17:19:47.750 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.08800530433654785 seconds
+2020-01-09 17:19:47.842 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.09200501441955566 seconds
+2020-01-09 17:19:49.009 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.flex.flex--align-center.el-dropdown-selfdefine>, Spend 1.1670668125152588 seconds
+2020-01-09 17:19:50.143 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//li[contains(text(),'退出')]/../li[1]>, Spend 0.13400745391845703 seconds
+2020-01-09 17:19:51.175 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get element text element: <css->main.el-main>header>h1>, Spend 0.03200197219848633 seconds
+2020-01-09 17:19:51.179 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get current window url, Spend 0.003999948501586914 seconds
+2020-01-09 17:19:51.179 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_3_personalinfo.Personalinfo.test_1_info_1_20200109171951.png
+2020-01-09 17:19:51.598 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_3_personalinfo.Personalinfo.test_1_info_1_20200109171951_.png, Spend 0.4190242290496826 seconds
+2020-01-09 17:19:51.980 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 17:19:54.228 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.2481284141540527 seconds
+2020-01-09 17:19:54.229 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 17:19:59.121 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 17:20:26.518 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 17:20:29.174 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.655151844024658 seconds
+2020-01-09 17:20:30.320 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1450655460357666 seconds
+2020-01-09 17:20:34.138 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 3.81721830368042 seconds
+2020-01-09 17:20:34.139 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 17:20:34.342 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.2020115852355957 seconds
+2020-01-09 17:20:34.489 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.14700841903686523 seconds
+2020-01-09 17:20:34.579 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.09000539779663086 seconds
+2020-01-09 17:20:34.659 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.08000421524047852 seconds
+2020-01-09 17:20:35.785 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.flex.flex--align-center.el-dropdown-selfdefine>, Spend 1.1260645389556885 seconds
+2020-01-09 17:20:36.893 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//li[contains(text(),'退出')]/../li[1]>, Spend 0.10700631141662598 seconds
+2020-01-09 17:20:38.008 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get element text element: <css->main.el-main>header>h1>, Spend 0.11500668525695801 seconds
+2020-01-09 17:20:38.017 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get current window url, Spend 0.00800013542175293 seconds
+2020-01-09 17:20:40.137 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.1181209087371826 seconds
+2020-01-09 17:20:40.138 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 17:20:44.697 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 17:56:30.397 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 17:56:33.013 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.615149736404419 seconds
+2020-01-09 17:56:34.176 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1620664596557617 seconds
+2020-01-09 17:56:39.846 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 5.669324159622192 seconds
+2020-01-09 17:56:39.846 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 17:56:40.054 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.20801210403442383 seconds
+2020-01-09 17:56:40.496 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.4410252571105957 seconds
+2020-01-09 17:56:40.560 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.06400370597839355 seconds
+2020-01-09 17:56:40.630 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.07000398635864258 seconds
+2020-01-09 17:56:41.728 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.flex.flex--align-center.el-dropdown-selfdefine>, Spend 1.0980629920959473 seconds
+2020-01-09 17:56:42.779 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//li[contains(text(),'退出')]/../li[1]>, Spend 0.05100297927856445 seconds
+2020-01-09 17:56:43.809 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get element text element: <css->main.el-main>header>h1>, Spend 0.029001712799072266 seconds
+2020-01-09 17:56:43.813 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get current window url, Spend 0.0030002593994140625 seconds
+2020-01-09 17:56:43.877 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.list-unstyled.user>li:nth-child(2)>a>, Spend 0.0630035400390625 seconds
+2020-01-09 17:56:44.119 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入昵称']> content: huangbin, Spend 0.241013765335083 seconds
+2020-01-09 17:56:44.224 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.dialog-form-footer>button:nth-child(2)>, Spend 0.10400581359863281 seconds
+2020-01-09 17:56:47.333 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.1081204414367676 seconds
+2020-01-09 17:56:47.334 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 17:56:51.229 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 17:59:42.953 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 17:59:45.582 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.628150224685669 seconds
+2020-01-09 17:59:46.742 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1590664386749268 seconds
+2020-01-09 17:59:50.433 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 3.690211057662964 seconds
+2020-01-09 17:59:50.433 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 17:59:50.966 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.5330307483673096 seconds
+2020-01-09 17:59:51.102 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.13600754737854004 seconds
+2020-01-09 17:59:51.187 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.08400487899780273 seconds
+2020-01-09 17:59:51.363 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.17501020431518555 seconds
+2020-01-09 17:59:52.418 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.flex.flex--align-center.el-dropdown-selfdefine>, Spend 1.0540602207183838 seconds
+2020-01-09 17:59:53.527 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//li[contains(text(),'退出')]/../li[1]>, Spend 0.10900640487670898 seconds
+2020-01-09 17:59:54.528 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_3_personalinfo.Personalinfo.test_1_info_1_20200109175954.png
+2020-01-09 17:59:55.005 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_3_personalinfo.Personalinfo.test_1_info_1_20200109175954_.png, Spend 0.4760270118713379 seconds
+2020-01-09 17:59:55.382 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 17:59:57.520 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.137122392654419 seconds
+2020-01-09 17:59:57.521 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 18:00:01.229 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 18:14:21.464 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 18:14:24.094 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.629150152206421 seconds
+2020-01-09 18:14:25.247 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1530659198760986 seconds
+2020-01-09 18:14:30.700 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 5.452311754226685 seconds
+2020-01-09 18:14:30.700 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 18:14:30.939 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.23801350593566895 seconds
+2020-01-09 18:14:31.083 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.14400815963745117 seconds
+2020-01-09 18:14:31.442 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.359020471572876 seconds
+2020-01-09 18:14:31.546 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.10400605201721191 seconds
+2020-01-09 18:14:32.804 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.flex.flex--align-center.el-dropdown-selfdefine>, Spend 1.2570719718933105 seconds
+2020-01-09 18:14:33.854 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//li[contains(text(),'退出')]/../li[1]>, Spend 0.049002885818481445 seconds
+2020-01-09 18:14:34.883 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get element text element: <css->main.el-main>header>h1>, Spend 0.02800154685974121 seconds
+2020-01-09 18:14:34.887 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get current window url, Spend 0.004000186920166016 seconds
+2020-01-09 18:14:34.948 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.list-unstyled.user>li:nth-child(2)>a>, Spend 0.06100344657897949 seconds
+2020-01-09 18:14:35.216 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入昵称']> content: huangbin, Spend 0.26801538467407227 seconds
+2020-01-09 18:14:35.322 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.dialog-form-footer>button:nth-child(2)>, Spend 0.10500597953796387 seconds
+2020-01-09 18:14:36.460 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.list-unstyled.user>li:nth-child(3)>a>, Spend 0.13800811767578125 seconds
+2020-01-09 18:14:36.838 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入个人简介']> content: 本人性格热情开朗,待人友好,为人诚实谦虚。, Spend 0.378021240234375 seconds
+2020-01-09 18:14:36.867 | INFO     | public.common.pyselenium:my_print:76 - FAIL    Unable to click element: <css->div.dialog-form-footer>button:nth-child(2)>, Spend 0.024001121520996094 seconds
+2020-01-09 18:14:36.868 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_3_personalinfo.Personalinfo.test_1_info_1_20200109181436.png
+2020-01-09 18:14:37.339 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_3_personalinfo.Personalinfo.test_1_info_1_20200109181436_.png, Spend 0.471027135848999 seconds
+2020-01-09 18:14:37.739 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 18:14:39.866 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.126121759414673 seconds
+2020-01-09 18:14:39.867 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 18:14:43.689 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 18:15:21.885 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 18:15:24.482 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.5961484909057617 seconds
+2020-01-09 18:15:25.609 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1260645389556885 seconds
+2020-01-09 18:15:29.141 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 3.5312018394470215 seconds
+2020-01-09 18:15:29.141 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 18:15:29.339 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.1980113983154297 seconds
+2020-01-09 18:15:29.493 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.1540088653564453 seconds
+2020-01-09 18:15:29.914 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.42002415657043457 seconds
+2020-01-09 18:15:30.016 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.10100555419921875 seconds
+2020-01-09 18:15:31.158 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.flex.flex--align-center.el-dropdown-selfdefine>, Spend 1.1420652866363525 seconds
+2020-01-09 18:15:32.241 | INFO     | public.common.pyselenium:my_print:76 - FAIL    Unable to click element: <xpath->//li[contains(text(),'退出')]/../li[1]>, Spend 0.08300471305847168 seconds
+2020-01-09 18:15:32.241 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_3_personalinfo.Personalinfo.test_1_info_1_20200109181532.png
+2020-01-09 18:15:32.791 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_3_personalinfo.Personalinfo.test_1_info_1_20200109181532_.png, Spend 0.5490310192108154 seconds
+2020-01-09 18:15:33.158 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 18:15:35.283 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.1241214275360107 seconds
+2020-01-09 18:15:35.284 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 18:15:38.958 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 18:16:16.402 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 18:16:19.020 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.617149591445923 seconds
+2020-01-09 18:16:20.169 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1480655670166016 seconds
+2020-01-09 18:16:23.676 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 3.5062007904052734 seconds
+2020-01-09 18:16:23.677 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 18:16:24.169 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.49202799797058105 seconds
+2020-01-09 18:16:24.313 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.14300823211669922 seconds
+2020-01-09 18:16:24.396 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.08300471305847168 seconds
+2020-01-09 18:16:24.472 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.0760045051574707 seconds
+2020-01-09 18:16:25.695 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.flex.flex--align-center.el-dropdown-selfdefine>, Spend 1.2230699062347412 seconds
+2020-01-09 18:16:26.801 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//li[contains(text(),'退出')]/../li[1]>, Spend 0.10500597953796387 seconds
+2020-01-09 18:16:28.830 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get element text element: <css->main.el-main>header>h1>, Spend 0.02800154685974121 seconds
+2020-01-09 18:16:28.834 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get current window url, Spend 0.004000186920166016 seconds
+2020-01-09 18:16:28.897 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.list-unstyled.user>li:nth-child(2)>a>, Spend 0.06200361251831055 seconds
+2020-01-09 18:16:29.132 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入昵称']> content: huangbin, Spend 0.23501348495483398 seconds
+2020-01-09 18:16:29.248 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.dialog-form-footer>button:nth-child(2)>, Spend 0.11500668525695801 seconds
+2020-01-09 18:16:31.448 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.list-unstyled.user>li:nth-child(3)>a>, Spend 0.19901132583618164 seconds
+2020-01-09 18:16:31.819 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入个人简介']> content: 本人性格热情开朗,待人友好,为人诚实谦虚。, Spend 0.3710212707519531 seconds
+2020-01-09 18:16:31.845 | INFO     | public.common.pyselenium:my_print:76 - FAIL    Unable to click element: <css->div.dialog-form-footer>button:nth-child(2)>, Spend 0.026001453399658203 seconds
+2020-01-09 18:16:31.845 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_3_personalinfo.Personalinfo.test_1_info_1_20200109181631.png
+2020-01-09 18:16:32.296 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_3_personalinfo.Personalinfo.test_1_info_1_20200109181631_.png, Spend 0.45102596282958984 seconds
+2020-01-09 18:16:32.685 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 18:16:34.798 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.1131207942962646 seconds
+2020-01-09 18:16:34.799 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 18:16:38.536 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 18:18:25.134 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 18:18:27.737 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.603148937225342 seconds
+2020-01-09 18:18:28.894 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1560661792755127 seconds
+2020-01-09 18:18:32.833 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 3.938225269317627 seconds
+2020-01-09 18:18:32.833 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 18:18:33.369 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.5350306034088135 seconds
+2020-01-09 18:18:33.511 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.14200806617736816 seconds
+2020-01-09 18:18:33.606 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.09400534629821777 seconds
+2020-01-09 18:18:33.771 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.16400957107543945 seconds
+2020-01-09 18:18:34.885 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.flex.flex--align-center.el-dropdown-selfdefine>, Spend 1.1140635013580322 seconds
+2020-01-09 18:18:35.999 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//li[contains(text(),'退出')]/../li[1]>, Spend 0.11400651931762695 seconds
+2020-01-09 18:18:38.061 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get element text element: <css->main.el-main>header>h1>, Spend 0.06100320816040039 seconds
+2020-01-09 18:18:38.066 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get current window url, Spend 0.00500035285949707 seconds
+2020-01-09 18:18:38.172 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.list-unstyled.user>li:nth-child(2)>a>, Spend 0.10600614547729492 seconds
+2020-01-09 18:18:38.591 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入昵称']> content: huangbin, Spend 0.41802382469177246 seconds
+2020-01-09 18:18:38.659 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.dialog-form-footer>button:nth-child(2)>, Spend 0.06700396537780762 seconds
+2020-01-09 18:18:39.797 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.list-unstyled.user>li:nth-child(3)>a>, Spend 0.13800787925720215 seconds
+2020-01-09 18:18:40.159 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入个人简介']> content: 本人性格热情开朗,待人友好,为人诚实谦虚。, Spend 0.36202073097229004 seconds
+2020-01-09 18:18:41.292 | INFO     | public.common.pyselenium:my_print:76 - FAIL    Unable to click element: <css->div.dialog-form-footer>button:nth-child(2)>, Spend 0.13300776481628418 seconds
+2020-01-09 18:18:41.292 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_3_personalinfo.Personalinfo.test_1_info_1_20200109181841.png
+2020-01-09 18:18:41.756 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_3_personalinfo.Personalinfo.test_1_info_1_20200109181841_.png, Spend 0.46402621269226074 seconds
+2020-01-09 18:18:42.125 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 18:18:44.247 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.121121406555176 seconds
+2020-01-09 18:18:44.247 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 18:18:47.697 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 18:21:20.001 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 18:21:22.611 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.610149383544922 seconds
+2020-01-09 18:21:23.749 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1380648612976074 seconds
+2020-01-09 18:21:27.627 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 3.8782222270965576 seconds
+2020-01-09 18:21:27.628 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 18:21:27.839 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.2110121250152588 seconds
+2020-01-09 18:21:28.271 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.4320247173309326 seconds
+2020-01-09 18:21:28.359 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.08800482749938965 seconds
+2020-01-09 18:21:28.428 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.06900405883789062 seconds
+2020-01-09 18:21:29.576 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.flex.flex--align-center.el-dropdown-selfdefine>, Spend 1.1470656394958496 seconds
+2020-01-09 18:21:30.744 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//li[contains(text(),'退出')]/../li[1]>, Spend 0.16800928115844727 seconds
+2020-01-09 18:21:32.775 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get element text element: <css->main.el-main>header>h1>, Spend 0.031002044677734375 seconds
+2020-01-09 18:21:32.779 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get current window url, Spend 0.004000186920166016 seconds
+2020-01-09 18:21:32.848 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.list-unstyled.user>li:nth-child(2)>a>, Spend 0.06900382041931152 seconds
+2020-01-09 18:21:33.075 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入昵称']> content: huangbin, Spend 0.22701311111450195 seconds
+2020-01-09 18:21:33.178 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.dialog-form-footer>button:nth-child(2)>, Spend 0.1020059585571289 seconds
+2020-01-09 18:21:35.322 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.list-unstyled.user>li:nth-child(3)>a>, Spend 0.14300799369812012 seconds
+2020-01-09 18:21:35.927 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入个人简介']> content: 本人性格热情开朗,待人友好,为人诚实谦虚。, Spend 0.6040346622467041 seconds
+2020-01-09 18:21:35.995 | INFO     | public.common.pyselenium:my_print:76 - FAIL    Unable to click element: <css->div.dialog-form-footer>button:nth-child(2)>, Spend 0.06700372695922852 seconds
+2020-01-09 18:21:35.996 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_3_personalinfo.Personalinfo.test_1_info_1_20200109182135.png
+2020-01-09 18:21:36.481 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_3_personalinfo.Personalinfo.test_1_info_1_20200109182135_.png, Spend 0.4850280284881592 seconds
+2020-01-09 18:21:36.892 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 18:21:39.022 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.129121780395508 seconds
+2020-01-09 18:21:39.022 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 18:21:42.615 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 18:24:58.929 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 18:25:01.560 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.631150484085083 seconds
+2020-01-09 18:25:02.701 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1400654315948486 seconds
+2020-01-09 18:25:06.360 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 3.6572089195251465 seconds
+2020-01-09 18:25:06.360 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 18:25:06.872 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.5110292434692383 seconds
+2020-01-09 18:25:07.014 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.141007661819458 seconds
+2020-01-09 18:25:07.093 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.07800436019897461 seconds
+2020-01-09 18:25:07.169 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.0760042667388916 seconds
+2020-01-09 18:25:12.383 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.flex.flex--align-center.el-dropdown-selfdefine>, Spend 5.213298559188843 seconds
+2020-01-09 18:25:13.514 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//li[contains(text(),'退出')]/../li[1]>, Spend 0.13100767135620117 seconds
+2020-01-09 18:25:15.597 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get element text element: <css->main.el-main>header>h1>, Spend 0.08300471305847168 seconds
+2020-01-09 18:25:15.606 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get current window url, Spend 0.008000612258911133 seconds
+2020-01-09 18:25:15.693 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.list-unstyled.user>li:nth-child(2)>a>, Spend 0.0870048999786377 seconds
+2020-01-09 18:25:15.877 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入昵称']> content: huangbin, Spend 0.18301033973693848 seconds
+2020-01-09 18:25:15.995 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.dialog-form-footer>button:nth-child(2)>, Spend 0.11800718307495117 seconds
+2020-01-09 18:25:18.146 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.list-unstyled.user>li:nth-child(3)>a>, Spend 0.1500084400177002 seconds
+2020-01-09 18:25:18.531 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入个人简介']> content: 本人性格热情开朗,待人友好,为人诚实谦虚。, Spend 0.3840219974517822 seconds
+2020-01-09 18:25:18.555 | INFO     | public.common.pyselenium:my_print:76 - FAIL    Unable to click element: <css->div.dialog-form-footer>button:nth-child(2)>, Spend 0.024001359939575195 seconds
+2020-01-09 18:25:18.556 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_3_personalinfo.Personalinfo.test_1_info_1_20200109182518.png
+2020-01-09 18:25:18.999 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_3_personalinfo.Personalinfo.test_1_info_1_20200109182518_.png, Spend 0.4430253505706787 seconds
+2020-01-09 18:25:23.514 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 18:25:25.635 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.120121479034424 seconds
+2020-01-09 18:25:25.636 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 18:25:29.185 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 18:36:16.428 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 18:36:19.074 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.646151304244995 seconds
+2020-01-09 18:36:20.210 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1350646018981934 seconds
+2020-01-09 18:36:24.035 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 3.82421875 seconds
+2020-01-09 18:36:24.036 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 18:36:24.251 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.2150123119354248 seconds
+2020-01-09 18:36:24.648 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.39702272415161133 seconds
+2020-01-09 18:36:24.721 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.07300400733947754 seconds
+2020-01-09 18:36:24.796 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.0740044116973877 seconds
+2020-01-09 18:36:25.917 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.flex.flex--align-center.el-dropdown-selfdefine>, Spend 1.1190638542175293 seconds
+2020-01-09 18:36:27.054 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//li[contains(text(),'退出')]/../li[1]>, Spend 0.1370077133178711 seconds
+2020-01-09 18:36:29.164 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get element text element: <css->main.el-main>header>h1>, Spend 0.11000609397888184 seconds
+2020-01-09 18:36:29.173 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get current window url, Spend 0.008000373840332031 seconds
+2020-01-09 18:36:29.289 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.list-unstyled.user>li:nth-child(2)>a>, Spend 0.1150064468383789 seconds
+2020-01-09 18:36:29.492 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入昵称']> content: huangbin, Spend 0.20301198959350586 seconds
+2020-01-09 18:36:29.590 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.dialog-form-footer>button:nth-child(2)>, Spend 0.09800529479980469 seconds
+2020-01-09 18:36:31.706 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.list-unstyled.user>li:nth-child(3)>a>, Spend 0.11600685119628906 seconds
+2020-01-09 18:36:32.046 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入个人简介']> content: 本人性格热情开朗,待人友好,为人诚实谦虚。, Spend 0.3390192985534668 seconds
+2020-01-09 18:36:32.079 | INFO     | public.common.pyselenium:my_print:76 - FAIL    Unable to click element: <css->div.dialog-form-footer>button:nth-child(2)>, Spend 0.03300166130065918 seconds
+2020-01-09 18:36:32.079 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_3_personalinfo.Personalinfo.test_1_info_1_20200109183632.png
+2020-01-09 18:36:32.535 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_3_personalinfo.Personalinfo.test_1_info_1_20200109183632_.png, Spend 0.4560260772705078 seconds
+2020-01-09 18:36:32.902 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 18:36:35.027 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.1241214275360107 seconds
+2020-01-09 18:36:35.028 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 18:36:38.665 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-01-09 18:39:06.488 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-01-09 18:39:09.130 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 2.641150951385498 seconds
+2020-01-09 18:39:10.285 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 1.1550660133361816 seconds
+2020-01-09 18:39:13.871 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 3.585205316543579 seconds
+2020-01-09 18:39:13.872 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-01-09 18:39:14.373 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.5010285377502441 seconds
+2020-01-09 18:39:14.522 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.14900875091552734 seconds
+2020-01-09 18:39:14.594 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.07200407981872559 seconds
+2020-01-09 18:39:14.664 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.06900405883789062 seconds
+2020-01-09 18:39:15.874 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.flex.flex--align-center.el-dropdown-selfdefine>, Spend 1.2090692520141602 seconds
+2020-01-09 18:39:16.975 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//li[contains(text(),'退出')]/../li[1]>, Spend 0.10100603103637695 seconds
+2020-01-09 18:39:19.008 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get element text element: <css->main.el-main>header>h1>, Spend 0.03300189971923828 seconds
+2020-01-09 18:39:19.011 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get current window url, Spend 0.003000020980834961 seconds
+2020-01-09 18:39:19.070 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.list-unstyled.user>li:nth-child(2)>a>, Spend 0.059003353118896484 seconds
+2020-01-09 18:39:19.277 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入昵称']> content: huangbin, Spend 0.20701193809509277 seconds
+2020-01-09 18:39:19.393 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.dialog-form-footer>button:nth-child(2)>, Spend 0.11500668525695801 seconds
+2020-01-09 18:39:21.540 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.list-unstyled.user>li:nth-child(3)>a>, Spend 0.14600825309753418 seconds
+2020-01-09 18:39:21.879 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入个人简介']> content: 本人性格热情开朗,待人友好,为人诚实谦虚。, Spend 0.3390192985534668 seconds
+2020-01-09 18:39:22.080 | INFO     | public.common.pyselenium:my_print:76 - FAIL    Unable to click element: <css->div.dialog-form-footer>button:nth-child(2)>, Spend 0.10100579261779785 seconds
+2020-01-09 18:39:22.080 | INFO     | public.common.get_img:get_screenshot_about_case:42 - test_3_personalinfo.Personalinfo.test_1_info_1_20200109183922.png
+2020-01-09 18:39:22.498 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get the current window screenshot,path: E:\project\UI923\report\html_report\images\test_3_personalinfo.Personalinfo.test_1_info_1_20200109183922_.png, Spend 0.4170238971710205 seconds
+2020-01-09 18:39:22.873 | INFO     | public.common.get_img:upload_img:64 - 上传图片失败
+2020-01-09 18:39:25.007 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.134122133255005 seconds
+2020-01-09 18:39:25.008 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-01-09 18:39:28.616 | INFO     | public.common.sendmail:send:91 - 发送邮件成功

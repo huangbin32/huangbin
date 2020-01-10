@@ -58,7 +58,7 @@ def upload_img(screenshotpath, img_name):
     localfile = screenshotpath
     try:
         r = put_file(token, key, localfile)
-        logger.info('上传图片成功---{}'.format(r))
+        logger.info('上传图片成功')
         return ConfigInit.qiniu_domain + key
     except Exception as e:
         logger.info('上传图片失败', e)

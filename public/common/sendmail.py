@@ -12,7 +12,7 @@ from config.basic_config import ConfigInit
 
 # 测试报告的路径
 reportPath = globalparam.report_path
-# 163的用户名和密码
+# qq的用户名和密码
 sendaddr_name = ConfigInit.sendaddr_name
 sendaddr_pswd = ConfigInit.sendaddr_pswd
 # 配置收发件人
@@ -80,9 +80,11 @@ class SendMail:
     def send(self):  #使用smtp发送
         """发送邮件"""
         self.__take_messages()
-        self.msg['from'] = 'postmaster@{}'.format(sendaddr_name)
+        self.msg['from'] = sendaddr_name
         try:
-            smtp = smtplib.SMTP('smtp.163.com', 587)
+            smtp = smtplib.SMTP('smtp.qq.com', 587)
+            # smtp.set_debuglevel(1)
+            smtp.starttls()
             smtp.login(sendaddr_name, sendaddr_pswd)
             smtp.sendmail(self.msg['from'], self.sendTo, self.msg.as_string())
             smtp.close()

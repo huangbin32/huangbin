@@ -1,12 +1,13 @@
-#coding=utf-8
+# coding=utf-8
 import time
+
 
 class Page(object):
     """
     This is a base page class for Page Object.
     """
 
-    def __init__(self, selenium_driver):
+    def __init__(self, selenium_driver):  #初始化
         self.dr = selenium_driver
 
     def exist_loading(self):
@@ -18,4 +19,7 @@ class Page(object):
             else:
                 break
 
-
+    def get_error_text(self):
+        """获取错误弹窗内容"""
+        text = self.dr.get_text("css->.el-message.el-message--error>p")
+        return text

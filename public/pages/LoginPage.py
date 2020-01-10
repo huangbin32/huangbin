@@ -1,6 +1,6 @@
-#coding=utf-8
+# coding=utf-8
 from public.common import basepage
-from public.pages.LoginoutPage import WorkBench
+from public.pages.WorkBenchPage import WorkBench
 
 
 class Login(basepage.Page):
@@ -25,13 +25,18 @@ class Login(basepage.Page):
 
     def get_title(self):
         """获取登录框上的大标题"""
-        text = self.dr.get_text("class->title")
+        text = self.dr.get_text("class->slogan")
         return text
+
+    def click_box(self):
+        """点击记住密码"""
+        self.dr.click("class->el-checkbox__input")
 
     def login(self, account, pw):
         """封装登录函数"""
         self.input_account(account)
         self.input_pw(pw)
+        self.click_box()
         self.click_login_btn()
-        return WorkBench(self.dr)
 
+        return WorkBench(self.dr)
