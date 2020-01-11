@@ -5,38 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a88ba1e1-dc39-4146-88b1-2ff25f55d841" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_15_53_07.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_15_54_13.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_16_01_54.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_16_03_22.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_16_05_29.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_16_06_29.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_16_25_40.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_16_30_49.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_16_57_11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_17_00_06.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_17_05_19.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/logs/test_2020-01-06.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/logs/test_2020-01-07.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/logs/test_2020-01-08.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/logs/test_2020-01-09.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/report/logs/test_2020-01-10.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/basic_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/basic_config.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/testdata/login.xls" beforeDir="false" afterPath="$PROJECT_DIR$/data/testdata/login.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/common/basepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/common/basepage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/common/get_img.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/common/get_img.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/common/mytest.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/common/mytest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/common/sendmail.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/common/sendmail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/LoginPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/LoginPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/PersonalInfoPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/PersonalInfoPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/WorkBenchPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/WorkBenchPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_15_53_07.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_15_54_13.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_16_01_54.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_16_03_22.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_16_05_29.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_16_06_29.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_16_25_40.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_16_30_49.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_16_57_11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_17_00_06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_17_05_19.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/logs/test_2020-01-06.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/logs/test_2020-01-07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/logs/test_2020-01-08.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/logs/test_2020-01-09.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/logs/test_2020-01-10.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/test_1_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_1_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/test_2_workbench.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_2_workbench.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/test_3_personalinfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_3_personalinfo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,104 +54,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/pages/LoginPage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-              <folding>
-                <element signature="e#16#50#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/test_1_login.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="34" />
-              <folding>
-                <element signature="e#15#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/pages/WorkBenchPage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-              <folding>
-                <element signature="e#15#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/test_2_workbench.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1058">
-              <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
-              <folding>
-                <element signature="e#15#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/test_3_personalinfo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-              <folding>
-                <element signature="e#15#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/pages/PersonalInfoPage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="482">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-              <folding>
-                <element signature="e#15#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/config/basic_config.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="276">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="33" column="50" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
-              <folding>
-                <element signature="e#15#30#0" expanded="true" />
-              </folding>
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -251,7 +146,6 @@
         <option value="$PROJECT_DIR$/testcase/test_3_customer.py" />
         <option value="$PROJECT_DIR$/public/pages/LoginoutPage.py" />
         <option value="$PROJECT_DIR$/testcase/test_2_loginout.py" />
-        <option value="$PROJECT_DIR$/config/basic_config.py" />
         <option value="$PROJECT_DIR$/public/common/get_img.py" />
         <option value="$PROJECT_DIR$/public/common/sendmail.py" />
         <option value="E:/python/Lib/HTMLTestRunner_gu.py" />
@@ -263,11 +157,12 @@
         <option value="$PROJECT_DIR$/public/pages/WorkBenchPage.py" />
         <option value="$PROJECT_DIR$/testcase/test_3_personalinfo.py" />
         <option value="$PROJECT_DIR$/testcase/test_2_workbench.py" />
-        <option value="$PROJECT_DIR$/run.py" />
         <option value="$PROJECT_DIR$/public/pages/PersonalInfoPage.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/public/pages/ＸPersonalInfoPage.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/config/basic_config.py" />
       </list>
     </option>
   </component>
@@ -299,11 +194,6 @@
             <path>
               <item name="UI923" type="b2602c69:ProjectViewProjectNode" />
               <item name="UI923" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UI923" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UI923" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -315,35 +205,7 @@
             <path>
               <item name="UI923" type="b2602c69:ProjectViewProjectNode" />
               <item name="UI923" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UI923" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UI923" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UI923" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UI923" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UI923" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UI923" type="462c0819:PsiDirectoryNode" />
               <item name="report" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UI923" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UI923" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
-              <item name="html_report" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UI923" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UI923" type="462c0819:PsiDirectoryNode" />
-              <item name="testcase" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -682,8 +544,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17386723" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17386723" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -695,7 +558,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.13976164" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32827735" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49947312" visible="true" weight="0.2892741" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49947312" visible="true" weight="0.21885157" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50052685" side_tool="true" weight="0.9674973" />
       <window_info anchor="bottom" id="File Transfer" order="11" weight="0.329718" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -733,9 +596,6 @@
     <option name="processedProjectFiles" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testcase/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://E:/python/Lib/site-packages/loguru/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -805,13 +665,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/basic_config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/ddt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-460">
@@ -878,13 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/common/basepage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/globalparam.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
@@ -902,10 +748,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/pages/XPersonalInfoPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_3_personalinfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/pages/PersonalInfoPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_2_workbench.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/common/basepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/pages/WorkBenchPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+          <folding>
+            <element signature="e#15#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/common/mytest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-892">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="-138">
+          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
           <folding>
             <element signature="e#16#31#0" expanded="true" />
           </folding>
@@ -914,11 +824,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/pages/LoginPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        <state relative-caret-position="115">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding>
-            <element signature="e#16#50#0" expanded="true" />
+            <element signature="e#15#49#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_1_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="26" lean-forward="true" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/testdata/11">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -937,84 +871,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/pages/XPersonalInfoPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/test_1_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="34" />
-          <folding>
-            <element signature="e#15#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/test_2_workbench.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1058">
-          <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
-          <folding>
-            <element signature="e#15#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/test_3_personalinfo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
-          <folding>
-            <element signature="e#15#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="33" column="50" selection-start-line="33" selection-start-column="50" selection-end-line="33" selection-end-column="50" />
-          <folding>
-            <element signature="e#15#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/pages/WorkBenchPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-          <folding>
-            <element signature="e#15#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/pages/PersonalInfoPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="e#15#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/config/basic_config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
-          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
