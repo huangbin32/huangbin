@@ -1,8 +1,8 @@
 class ConfigInit:
-    url = 'https://bacon.lpi-china.com'
-    sendaddr_name = '1171499448@qq.com'
-    sendaddr_pswd = 'expfsnlwjyecjddj'
-    data_filename = 'login.xls'
+    url = 'xxxxxx'
+    sendaddr_name = 'xxxxx'
+    sendaddr_pswd = 'xxxx'
+    data_filename = 'xxxxx'
     mongo_user = 'name'
     mongo_pw = 'pw'
     mongo_ip = 'ip'

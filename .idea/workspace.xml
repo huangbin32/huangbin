@@ -7,7 +7,6 @@
     <list default="true" id="a88ba1e1-dc39-4146-88b1-2ff25f55d841" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/basic_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/basic_config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/testdata/login.xls" beforeDir="false" afterPath="$PROJECT_DIR$/data/testdata/login.xls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_15_53_07.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_15_54_13.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/report/html_report/TestResult2020-01-10_16_01_54.html" beforeDir="false" />
@@ -544,9 +543,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17386723" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17386723" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -558,7 +556,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.13976164" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32827735" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49947312" visible="true" weight="0.21885157" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49947312" visible="true" weight="0.21885157" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50052685" side_tool="true" weight="0.9674973" />
       <window_info anchor="bottom" id="File Transfer" order="11" weight="0.329718" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
