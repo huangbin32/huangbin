@@ -8,7 +8,7 @@ from public.common.get_img import screenshot_about_case
 
 
 @ddt
-class Personalinfo(mytest.MyuserloginTest):
+class TestPersonalinfo(mytest.MyuserloginTest):
     """个人信息模块"""
 
     @screenshot_about_case

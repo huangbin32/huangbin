@@ -18,7 +18,7 @@ class TestLogin(mytest.MyTest):
         """正常登录"""
         test_data = data['data']
         test_assert = data['assertion']
-        login = LoginPage.Login(self.dr)  # 实例化login
+        login = LoginPage.Login(self.dr)
         ele = login.login(test_data['username'], test_data['pw'])
         username = ele.get_name()
         url = ele.get_url()
@@ -32,7 +32,7 @@ class TestLogin(mytest.MyTest):
         """密码错误登录"""
         test_data = data['data']
         test_assert = data['assertion']
-        login = LoginPage.Login(self.dr)  # 实例化login
+        login = LoginPage.Login(self.dr)
         ele = login.login(test_data['username'], test_data['pw'])
         error_text = login.get_error_text()
         url = ele.get_url()
@@ -45,7 +45,7 @@ class TestLogin(mytest.MyTest):
         """用户名不存在"""
         test_data = data['data']
         test_assert = data['assertion']
-        login = LoginPage.Login(self.dr)  # 实例化login
+        login = LoginPage.Login(self.dr)
         ele = login.login(test_data['username'], test_data['pw'])
         error_text = login.get_error_text()
         url = ele.get_url()
