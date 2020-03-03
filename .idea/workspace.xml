@@ -4,17 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/config/globalparam.py" description="&#10;import os&#10;import time" line="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a88ba1e1-dc39-4146-88b1-2ff25f55d841" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/public/pages/MaterialPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testcase/test_4_material.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/basic_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/basic_config.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/testdata/login.xls" beforeDir="false" afterPath="$PROJECT_DIR$/data/testdata/login.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/common/mytest.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/common/mytest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pages/WorkBenchPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/public/pages/WorkBenchPage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/test_2_workbench.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_2_workbench.py" afterDir="false" />
-    </list>
+    <list default="true" id="a88ba1e1-dc39-4146-88b1-2ff25f55d841" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

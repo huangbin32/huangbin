@@ -1,8 +1,8 @@
 class ConfigInit:
-    url = 'https://bacon.lpi-china.com/'
-    sendaddr_name = '1171499448@qq.com'
-    sendaddr_pswd = 'expfsnlwjyecjddj'
-    data_filename = 'login.xls'
+    url = 'xxxxxx'
+    sendaddr_name = 'xxxx'
+    sendaddr_pswd = 'xxxx'
+    data_filename = 'xxxx'
     AccessKey = 'key'
     SecretKey = 'key'
     qiniu_domain = 'domain'      # 七牛域名
