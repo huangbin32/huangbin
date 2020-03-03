@@ -3,7 +3,7 @@ import time
 from public.common import basepage
 from public.pages import LoginPage
 from public.pages.PersonalInfoPage import Info
-
+from public.pages.MaterialPage import Material
 
 class WorkBench(basepage.Page):
     """课程库模块"""
@@ -110,3 +110,9 @@ class WorkBench(basepage.Page):
 
         return Info(self.dr)
 
+    def personal_wisdomspace(self):
+        """点击个人智慧空间"""
+        self.dr.click("css->ul.list-unstyled.nav>li:nth-child(2)")
+        time.sleep(1)
+
+        return Material(self.dr)

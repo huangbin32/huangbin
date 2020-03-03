@@ -74,3 +74,15 @@ class TestWorkbench(mytest.MyAutologinTest):
         url = info.get_url()
         self.assertIn(test_assert['text'], text)
         self.assertIn(test_assert['url'], url)
+
+    @screenshot_about_case
+    @data(*get_test_case_data(data_info, 'test_5'))
+    # @unittest.skipIf(True, "原因")
+    def test_5(self, data):
+        """点击个人智慧空间"""
+        test_assert = data['assertion']
+        material = self.workbench.personal_wisdomspace()
+        text = material.get_video_text()
+        url = material.get_url()
+        self.assertIn(test_assert['text'], text)
+        self.assertIn(test_assert['url'], url)
