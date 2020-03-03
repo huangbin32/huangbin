@@ -2,7 +2,7 @@ class ConfigInit:
     url = 'xxxxxx'
     sendaddr_name = 'xxxx'
     sendaddr_pswd = 'xxxx'
-    data_filename = 'xxxx'
+    data_filename = 'xxxxx'
     AccessKey = 'key'
     SecretKey = 'key'
     qiniu_domain = 'domain'      # 七牛域名
