@@ -2,8 +2,8 @@
 
 import pymysql
 
-from config.config import ConfigInit
-from public.common.log import Log
+from config.basic_config import ConfigInit
+
 
 
 def connect_sql():

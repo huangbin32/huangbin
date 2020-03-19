@@ -1,8 +1,8 @@
 class ConfigInit:
-    url = 'xxxxxx'
+    url = 'xxxxx'
     sendaddr_name = 'xxxx'
-    sendaddr_pswd = 'xxxx'
-    data_filename = 'xxxxx'
+    sendaddr_pswd = 'xxxxx'
+    data_filename = 'login.xls'
     AccessKey = 'key'
     SecretKey = 'key'
     qiniu_domain = 'domain'      # 七牛域名
@@ -12,3 +12,4 @@ class ConfigInit:
     # mysql_user = 'name'        # mysql数据库账号
     # mysql_pw = 'pw'            # mysql密码
     # mysql_db = ''              # mysql要连接的数据库名字
+

@@ -5,7 +5,7 @@ import os
 from loguru import logger
 from config import globalparam
 from public.common import sendmail
-import HTMLTestRunner_bin
+import HTMLTestRunner_ui
 
 path = os.path.join(os.path.abspath('.'), 'report', 'logs', 'test_{}.log'.format(time.strftime('%Y-%m-%d')))
 logger.add(path)  # 日志初始化
@@ -14,12 +14,12 @@ logger.add(path)  # 日志初始化
 def run(method, test=None):
     if method == 'all':
         test_dir = './testcase'
-        suite = unittest.defaultTestLoader.discover(start_dir=test_dir, pattern='test_4*.py')
+        suite = unittest.defaultTestLoader.discover(start_dir=test_dir, pattern='test_3*.py')
 
         now = time.strftime('%Y-%m-%d_%H_%M_%S')
         reportname = os.path.join(globalparam.report_path, 'TestResult' + now + '.html')
         with open(reportname, 'wb') as f:
-            runner = HTMLTestRunner_bin.HTMLTestRunner(
+            runner = HTMLTestRunner_ui.HTMLTestRunner(
                 stream=f,
                 title='测试报告',
             )

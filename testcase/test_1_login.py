@@ -1,5 +1,6 @@
 # coding=utf-8
 import time
+import unittest
 from public.common import mytest
 from public.pages import LoginPage
 from ddt import ddt, data
@@ -27,7 +28,7 @@ class TestLogin(mytest.MyTest):
 
     @screenshot_about_case
     @data(*get_test_case_data(data_info, 'test_02_login'))
-    # @unittest.skipIf(True, "原因")
+    @unittest.skipIf(True, "原因")
     def test_02_login(self, data):
         """密码错误登录"""
         test_data = data['data']
@@ -41,6 +42,7 @@ class TestLogin(mytest.MyTest):
 
     @screenshot_about_case
     @data(*get_test_case_data(data_info, 'test_03_login'))
+    @unittest.skipIf(True, "原因")
     def test_03_login(self, data):
         """用户名不存在"""
         test_data = data['data']

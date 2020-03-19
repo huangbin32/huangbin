@@ -5,6 +5,7 @@ from public.common import mytest
 from ddt import ddt, data
 from public.common.datainfo import get_test_case_data, data_info
 from public.common.get_img import screenshot_about_case
+from loguru import logger
 
 
 @ddt
@@ -18,6 +19,8 @@ class TestPersonalinfo(mytest.MyuserloginTest):
         """修改个人信息"""
         test_assert = data['assertion']
         self.user.nickname()
+        name = self.user.get_old_name()
+        logger.info('name==========={}'.format(name))
         self.user.input_username("HB")
         self.user.username_define()
         self.user.jianjie()

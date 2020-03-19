@@ -19,6 +19,7 @@ class Material(basepage.Page):
     def click_folder(self):
         """点击添加文件夹"""
         self.dr.click("css->li.category-item")
+        time.sleep(1)
 
     def input_foldername(self, name):
         """输入文件夹名称"""

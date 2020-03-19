@@ -21,6 +21,10 @@ class Info(basepage.Page):
         """点击昵称修改按钮"""
         self.dr.click("css->ul.list-unstyled.user>li:nth-child(2)>a")
 
+    def get_old_name(self):
+        text = self.dr.get_attribute("css->[placeholder='请输入昵称']", "value")
+        return text
+
     def input_username(self, username):
         """修改用户昵称"""
         self.dr.clear_type("css->[placeholder='请输入昵称']", username)
