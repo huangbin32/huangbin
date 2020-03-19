@@ -32,7 +32,7 @@ public/ 各种方法封装
 
         sendmail      发送测试报告方法，由于国内邮件服务经常被封，采用了国外的mailgun  smtp
 
-pages  page页面方法类，一个页面一个文件类
+      pages  page页面方法类，一个页面一个文件类
 
 report  测试生成数据目录
 
