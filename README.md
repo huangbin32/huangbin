@@ -11,7 +11,8 @@ config/ 配置文件目录
 data/ 数据驱动文件存放路径
 
 public/ 各种方法封装
-    common   一些公共方法
+
+      common   一些公共方法
 
         basepage  Page基类,后面每个page页都需要继承这个基类，可以封装一些每个页面都通用的方法，比如：操作成功弹窗
 
@@ -35,11 +36,11 @@ pages  page页面方法类，一个页面一个文件类
 
 report  测试生成数据目录
 
-    html_report  测试报告存放路径
+      html_report  测试报告存放路径
 
-      images 截图存放路径
+         images 截图存放路径
 
-    logs  log日志存放路径
+      logs  log日志存放路径
 
 testcase  用例写在这个目录下，每个用例可以配置两个装饰器：DDT、失败截图装饰器
 
