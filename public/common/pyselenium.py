@@ -704,6 +704,19 @@ class PySelenium(object):
             self.my_print("{0} Unable switch to the new window, Spend {1} seconds".format(fail, time.time() - t1))
             raise
 
+    def send_key_text(self, css, text, secs=0.5):
+        t1 = time.time()
+        try:
+            self.element_wait(css)
+            ele = self.get_element(css)
+            ele.send_keys(text)
+            time.sleep(secs)
+        except Exception:
+            self.my_print(
+                "{0} Unable element <{1}> type content: {2},and sleep {3} seconds,input ENTER key, Spend {4} seconds".
+                    format(fail, css, text, secs, time.time() - t1))
+            raise
+
     def type_and_enter(self, css, text, secs=0.5):
         """
         Operation input box. 1、input message,sleep 0.5s;2、input ENTER.

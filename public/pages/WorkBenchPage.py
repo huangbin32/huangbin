@@ -116,3 +116,14 @@ class WorkBench(basepage.Page):
         time.sleep(1)
 
         return Material(self.dr)
+
+    def js_code(self):
+        self.dr.js('document.querySelector(".el-upload__input").style.display="block";')
+        # document.querySelector("[accept='.ppt,.pptx']").style.display="block";
+
+    def upload(self):
+        path = r'C:\image\6.png'
+        self.dr.send_key_text("css->.el-upload__input", path)   #上传图片
+
+
+

@@ -47,6 +47,7 @@ class TestLogin(mytest.MyTest):
         """用户名不存在"""
         test_data = data['data']
         test_assert = data['assertion']
+
         login = LoginPage.Login(self.dr)
         ele = login.login(test_data['username'], test_data['pw'])
         error_text = login.get_error_text()

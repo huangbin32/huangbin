@@ -1,0 +1,26 @@
+2020-05-26 15:06:42.806 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-05-26 15:06:50.588 | INFO     | public.common.sendmail:send:91 - 发送邮件成功
+2020-05-26 15:47:29.931 | INFO     | public.common.mytest:setUp:39 - ############################### START ###############################
+2020-05-26 15:47:33.065 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Start a new browser: Chrome, Spend 3.1183393001556396 seconds
+2020-05-26 15:47:35.304 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Set browser window maximized, Spend 2.239246129989624 seconds
+2020-05-26 15:47:44.165 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Navigated to https://bacon.lpi-china.com, Spend 8.86091661453247 seconds
+2020-05-26 15:47:44.165 | INFO     | public.common.mytest:setUp:43 - 打开https://bacon.lpi-china.com
+2020-05-26 15:47:44.682 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='手机号']> content: 18175516432, Spend 0.5157046318054199 seconds
+2020-05-26 15:47:44.837 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='密码']> content: hb123456, Spend 0.14590144157409668 seconds
+2020-05-26 15:47:44.914 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-checkbox__input>, Spend 0.07606863975524902 seconds
+2020-05-26 15:47:45.009 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <class->el-button>, Spend 0.09502243995666504 seconds
+2020-05-26 15:47:50.255 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//button[@class='el-button el-button--primary el-dropdown-selfdefine']/..>, Spend 5.2455925941467285 seconds
+2020-05-26 15:47:51.335 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->ul.creates>li:nth-child(1)>, Spend 0.07852482795715332 seconds
+2020-05-26 15:47:52.368 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Execute javascript scripts: document.querySelector(".el-upload__input").style.display="block";, Spend 0.030473947525024414 seconds
+2020-05-26 15:47:53.059 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <css->div.input-tags>button>, Spend 0.10893559455871582 seconds
+2020-05-26 15:47:53.124 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->div.input-tags>div>input> content: 课程, Spend 0.06496286392211914 seconds
+2020-05-26 15:47:53.257 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入课程名称']> content: 自动化培训, Spend 0.13192486763000488 seconds
+2020-05-26 15:47:53.354 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入目标学员']> content: 大学生, Spend 0.09694504737854004 seconds
+2020-05-26 15:47:53.440 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入学习目标']> content: 完美, Spend 0.08595013618469238 seconds
+2020-05-26 15:47:53.531 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clear and type element: <css->[placeholder='请输入课程综述']> content: 优秀, Spend 0.08994841575622559 seconds
+2020-05-26 15:47:53.595 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Clicked element: <xpath->//span[contains(text(),'确定')]/..>, Spend 0.06296324729919434 seconds
+2020-05-26 15:47:54.677 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get element text element: <css->.course-item__title>, Spend 1.0805611610412598 seconds
+2020-05-26 15:47:54.692 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Get current window url, Spend 0.015587329864501953 seconds
+2020-05-26 15:47:56.879 | INFO     | public.common.pyselenium:my_print:76 - SUCCESS    Closed all window and quit the driver, Spend 2.1864638328552246 seconds
+2020-05-26 15:47:56.879 | INFO     | public.common.mytest:tearDown:48 - ###############################  End  ###############################
+2020-05-26 15:48:00.718 | INFO     | public.common.sendmail:send:91 - 发送邮件成功

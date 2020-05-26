@@ -1,7 +1,7 @@
 class ConfigInit:
-    url = 'xxxxx'
+    url = 'xxxx'
     sendaddr_name = 'xxxx'
-    sendaddr_pswd = 'xxxxx'
+    sendaddr_pswd = 'xxxx'
     data_filename = 'login.xls'
     AccessKey = 'key'
     SecretKey = 'key'
