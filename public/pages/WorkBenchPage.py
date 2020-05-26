@@ -123,7 +123,7 @@ class WorkBench(basepage.Page):
 
     def upload(self):
         path = r'C:\image\6.png'
-        self.dr.send_key_text("css->.el-upload__input", path)   #上传图片
+        self.dr.send_key_text("css->.el-upload__input", path)   #上传图片添加上传文件方法封装
 
 
 
