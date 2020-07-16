@@ -41,7 +41,7 @@ class MyAutologinTest(unittest.TestCase):
         self.dr.max_window()
         self.dr.open(ConfigInit.url)
         logger.info('打开{}'.format(ConfigInit.url))
-        self.workbench = Login(self.dr).login('18175516432', 'hb123456')
+        self.workbench = Login(self.dr).login('c', 'hb123456')
 
     def tearDown(self):
         self.dr.quit()

@@ -24,4 +24,9 @@ class TestMaterial(mytest.MaterialloginTest):
         url = self.material.get_url()
         self.assertIn(text, test_assert['text'])
         self.assertIn(url, test_assert['url'])
+        self.material.delete_icon()
+        self.material.click_icon()
+        self.material.secondary_confirmation()
+        result = self.material.is_sucai()
+        self.assertFalse(result)  #检查表达式是否为假
 
