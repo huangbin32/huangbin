@@ -13,7 +13,7 @@ class TestWorkbench(mytest.MyAutologinTest):
 
     @screenshot_about_case
     @data(*get_test_case_data(data_info, 'test_1_loginout'))
-    @unittest.skipIf(True, "原因")
+    # @unittest.skipIf(True, "原因")
     def test_1_loginout(self, data):
         """退出登录"""
         test_assert = data['assertion']

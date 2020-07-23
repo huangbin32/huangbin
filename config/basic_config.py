@@ -1,7 +1,7 @@
 class ConfigInit:
-    url = 'xxx'
-    sendaddr_name = 'xxxx'
-    sendaddr_pswd = 'xxxxx'
+    url = 'https://bacon.lpi-china.com'
+    sendaddr_name = '1171499448.com'
+    sendaddr_pswd = 'murwpscvitbmgjie'
     data_filename = 'login.xls'
     AccessKey = 'key'
     SecretKey = 'key'
