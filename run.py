@@ -14,7 +14,7 @@ logger.add(path)  # 日志初始化
 def run(method, test=None):
     if method == 'all':
         test_dir = './testcase'
-        suite = unittest.defaultTestLoader.discover(start_dir=test_dir, pattern='test_4*.py')
+        suite = unittest.defaultTestLoader.discover(start_dir=test_dir, pattern='test_1*.py')
 
         now = time.strftime('%Y-%m-%d_%H_%M_%S')
         reportname = os.path.join(globalparam.report_path, 'TestResult' + now + '.html')

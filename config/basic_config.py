@@ -1,6 +1,6 @@
 class ConfigInit:
     url = 'https://bacon.lpi-china.com'
-    sendaddr_name = '1171499448.com'
+    sendaddr_name = '1171499448@qq.com'
     sendaddr_pswd = 'murwpscvitbmgjie'
     data_filename = 'login.xls'
     AccessKey = 'key'
